@@ -48,3 +48,8 @@
   background-color: var(--teal);
   color: var(--lightteal);
 }
+
+/* Add Body font-family */
+body {
+  font-family: 'Roboto', sans-serif;
+}
